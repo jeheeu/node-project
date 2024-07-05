@@ -1,7 +1,0 @@
-{
-    "host": "localhost",
-    "user": "root",
-    "password": "wpgml112",
-    "port": "3306",
-    "database": "managment"
-}
